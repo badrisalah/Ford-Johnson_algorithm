@@ -145,4 +145,4 @@ Each pend element can never be larger than its pair (which is already in the mai
 
 ---
 
-Master the algorithm that minimizes comparisons.
+Good luck , feel free to add some infos :)
