@@ -31,7 +31,7 @@ This is the initial state before any operations. All elements are in their origi
 
 ### Step 2: Pair Adjacent Elements
 
-![Pairing](./docs/Screen\ Shot\ 2026-07-30\ at\ 2.48.21\ AM.png)
+![Pairing](docs/Screen%20Shot%202026-07-30%20at%202.48.21%20AM.png)
 
 Group consecutive elements into pairs:
 - Pair 1: (7, 3) - orange & blue
