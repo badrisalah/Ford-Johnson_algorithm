@@ -104,7 +104,7 @@ Each pend element can never be larger than its pair (which is already in the mai
 | Pairing | floor(n/2) | Sort each pair (1 comparison per pair) |
 | Main chain sort | T(floor(n/2)) | Recursive Ford-Johnson on half the elements |
 | Pend insertion | approx n log(n/2) | Binary search with constrained ranges |
-| Total | n log n - 2.415n | Near-optimal |
+| Total | n log n - 1.45n | Near-optimal |
 
 ---
 
