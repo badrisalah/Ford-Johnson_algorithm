@@ -6,7 +6,7 @@
 
 ## What is Ford-Johnson?
 
-Ford-Johnson (also called merge-insertion sort) is a comparison-based sorting algorithm that minimizes the number of comparisons needed to sort an array. Unlike quicksort or mergesort which use O(n log n) comparisons, Ford-Johnson achieves n log n - 2.415n comparisons, theoretically superior for most input sizes.
+Ford-Johnson (also called merge-insertion sort) is a comparison-based sorting algorithm that minimizes the number of comparisons needed to sort an array. Unlike quicksort or mergesort which use O(n log n) comparisons, Ford-Johnson achieves n log n - 1.45n comparisons, theoretically superior for most input sizes.
 
 The algorithm works by:
 1. Pairing adjacent elements
