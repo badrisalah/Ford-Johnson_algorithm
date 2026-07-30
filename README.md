@@ -45,7 +45,7 @@ Each pair is now isolated. The orange element is the first element of the pair, 
 
 ### Step 3: Extract Main Chain & Pend Elements
 
-![Extraction](./docs/Screen\ Shot\ 2026-07-30\ at\ 2.48.37\ AM.png)
+![Extraction](docs/Screen%20Shot%202026-07-30%20at%202.48.37%20AM.png)
 
 From each sorted pair, extract:
 - Main chain (purple): `[7, 8, 5]` - the larger element from each pair
@@ -62,7 +62,7 @@ So each pend element has an upper bound (its pair's position in the main chain).
 
 ### Step 4: Recursively Sort Main Chain
 
-![Recursion](./docs/Screen\ Shot\ 2026-07-30\ at\ 2.48.51\ AM.png)
+![Recursion](docs/Screen%20Shot%202026-07-30%20at%202.48.51%20AM.png)
 
 Sort the main chain recursively using Ford-Johnson:
 - Input: `[7, 8, 5]`
@@ -74,7 +74,7 @@ For this small array, we just need a few comparisons. The recursion continues un
 
 ### Step 5: Binary Insert Pend Elements
 
-![Insertion](./docs/Screen\ Shot\ 2026-07-30\ at\ 2.49.00\ AM.png)
+![Insertion](docs/Screen%20Shot%202026-07-30%20at%202.49.00%20AM.png)
 
 Insert each pend element using binary search with constrained range:
 
