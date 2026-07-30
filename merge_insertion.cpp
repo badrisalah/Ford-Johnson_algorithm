@@ -1,3 +1,4 @@
+// try implimenting it your own way ;)
 // enjoy :)
 
 void fordJohnson(std::vector<int>& v)
