@@ -21,7 +21,7 @@ The algorithm works by:
 
 ### Step 1: Input Array
 
-![Input](./docs/Screen\ Shot\ 2026-07-30\ at\ 2.48.13\ AM.png)
+![Input](./docs/Screen_Shot_2026-07-30_at_2_48_13_AM.png)
 
 We start with an unsorted array: `[7, 3, 8, 2, 5, 1, 6]`
 
